@@ -667,3 +667,7 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "671c8f80ca834189d33b6351d6beb1892ae4f34408886bb15cb04bf60dd709f6"
+
+[[files]]
+file = "unsup.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
