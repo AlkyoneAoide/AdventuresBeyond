@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/embeddium++.toml"
+hash = "f447e3ba293764d1ed61a6ce4516a451463cabf9e4b6c1301c48b2e00306fb7a"
+
+[[files]]
 file = "config/environmentalcreepers.json"
 hash = "30f8aa1557cc572bdfdd37e1320dfd4ba447f72c94735a4764efc52324e9a7e1"
 
