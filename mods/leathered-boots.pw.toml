@@ -1,0 +1,13 @@
+name = "Leathered Boots"
+filename = "leathered-boots-forge-1.20.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nuqNKAFn/versions/WFbisGmJ/leathered-boots-forge-1.20.1-4.0.0.jar"
+hash-format = "sha512"
+hash = "2059f43ffd334938a850c623467cd9908546fa0ca37bb862d7d39bf15b5a7819015c9b4be4086cbdb72c9726f32e4d89a033284a6f6dc48ea8f535043db27297"
+
+[update]
+[update.modrinth]
+mod-id = "nuqNKAFn"
+version = "WFbisGmJ"

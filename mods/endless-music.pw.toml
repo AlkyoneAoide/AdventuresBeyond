@@ -1,0 +1,13 @@
+name = "Endless Music"
+filename = "endlessMusic-v1.1.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lLZGl43R/versions/RjIqzQud/endlessMusic-v1.1.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "c5f7b48b163360f4df78c06b38404040c85fb09691655547e8dd35d0b72b94990c020ee44bc91cfcc7e651d380fc4d61223b7e166d6ce2dbf9265fb00cbadd65"
+
+[update]
+[update.modrinth]
+mod-id = "lLZGl43R"
+version = "RjIqzQud"

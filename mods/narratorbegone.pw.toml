@@ -1,0 +1,13 @@
+name = "NarratorBeGone"
+filename = "narratorbegone-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zoCOvd5h/versions/oAogrgFm/narratorbegone-1.0.0.jar"
+hash-format = "sha512"
+hash = "0cfb9d57d3059edb6169c24627ee9e5d8b61ffb95ae8136814ffb368a9535a6f9115fd87c0b2941e2eebdf745e08d0c58c5563a5eb1ebd5d6b65caeb5d9d2f01"
+
+[update]
+[update.modrinth]
+mod-id = "zoCOvd5h"
+version = "oAogrgFm"

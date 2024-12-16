@@ -1,0 +1,17 @@
+name = "Adventures Beyond"
+author = "Shammrockss"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "465356479bed173e326cd7ef9bc6f997b95dc6a06b2bf6b1824cc00b52c7c1b0"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
+unsup = "0.2.3"
+
+[options]
+acceptable-game-versions = ["1.20.X", "1.20.x"]
