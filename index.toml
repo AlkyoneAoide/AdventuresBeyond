@@ -669,8 +669,23 @@ hash = "8c8b596c0e8f7366e30ee6edbd591fba9ef16741c25a505e64de9a299cd72e80"
 metafile = true
 
 [[files]]
+file = "no-more-terralith-structures.pw.toml"
+hash = "a275b03ca53d3f7fcaac91987eb38bdffd84e23f1cd391588f6fb87be7f2cbf4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/jicklus.pw.toml"
+hash = "3cda81722ab86633bc455b77a9f0668116d541587c0851a8a8737976363baa05"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "671c8f80ca834189d33b6351d6beb1892ae4f34408886bb15cb04bf60dd709f6"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
+metafile = true
 
 [[files]]
 file = "unsup.toml"

@@ -1,0 +1,13 @@
+name = "No More Terralith Structures"
+filename = "NoMoreTerralithStructures.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec4faaa5c69f89fbeddba262fcd9ba882b3f253c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5414724
+project-id = 1034256
