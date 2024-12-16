@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "b19342f11a8275ca28d2d4219baea3ff3f2a91f3f86ec240c1ee2cdba63af437"
+hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
@@ -600,11 +600,6 @@ metafile = true
 [[files]]
 file = "mods/trample-no-more.pw.toml"
 hash = "3d874eb216ad96317f7f736d7b21eeb2d52ad1684f68d41f459842e3b66c00cc"
-metafile = true
-
-[[files]]
-file = "mods/treeplacer-terralith-addon.pw.toml"
-hash = "adbd9ef355f12f1996fc456c2267ecfa4ee73260a70b023080157f7b61379999"
 metafile = true
 
 [[files]]
