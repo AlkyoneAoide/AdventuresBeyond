@@ -5,6 +5,10 @@ file = "config/environmentalcreepers.json"
 hash = "30f8aa1557cc572bdfdd37e1320dfd4ba447f72c94735a4764efc52324e9a7e1"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "e96a4011cf1ce1aaa57cc3d8b9d3329ae100cf6869c61d10c3b23881e01e18a2"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "e648a83707d4ddfedd27a6459c32853e4565f19eaa388246484857c053444930"
 metafile = true
