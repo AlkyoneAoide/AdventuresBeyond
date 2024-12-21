@@ -1,6 +1,6 @@
 name = "Simple Concrete"
 filename = "simple-concrete-1.0.0-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rvaj4n3V/versions/aQ7M8lAx/simple-concrete-1.0.0-1.20.1.jar"
