@@ -1,0 +1,13 @@
+name = "Craft Slabs Back Into Blocks"
+filename = "slabstoblocks-1.20.1-1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8MosnjaC/versions/oIXrNCiy/slabstoblocks-1.20.1-1-forge.jar"
+hash-format = "sha512"
+hash = "580d486e7576df1f202e779668d39174866c38c523db5e9a92b2726a6c45a73f2f203ee791f9ce26266fbaff24822b492f32dc91f6faf576f84523426f22be9a"
+
+[update]
+[update.modrinth]
+mod-id = "8MosnjaC"
+version = "oIXrNCiy"

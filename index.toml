@@ -148,8 +148,18 @@ hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
+file = "mods/craft-slabs-back-into-blocks.pw.toml"
+hash = "0fe691af5aff14ef089361316425dcda0d3b2e020dbe3d6c3be2f04e38d0f4a9"
+metafile = true
+
+[[files]]
+file = "mods/create-broken-bad.pw.toml"
+hash = "06d41d478529da12b3d5c776d976ec00506abdf5eecaae599619685a89b95282"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
+hash = "8782d120f8b3e8439595af87a84d8e955ecdcf2e7abcf1a2ce85c413f085daa3"
 metafile = true
 
 [[files]]
@@ -530,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "e3bdb65c2ce034e26c9277751a370baac6df6853d55e92327170df8778a837fb"
+metafile = true
+
+[[files]]
+file = "mods/smelting-cobblestone-in-blast-a-furnace-fabricforge.pw.toml"
+hash = "12637a9163729c99c05c05376e9cadd6307882d7c0fec7c42b241ebc8dce496b"
 metafile = true
 
 [[files]]
